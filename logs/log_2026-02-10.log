@@ -1,0 +1,26 @@
+2026-02-10 22:18:55,224 - INFO - CONFIG INITIALIZED
+2026-02-10 22:18:55,226 - INFO - TAVILY TOOL ALL SET
+2026-02-10 22:18:55,255 - INFO - SERPER TOOL ALL SET
+2026-02-10 22:18:56,654 - INFO - AGENT CREATED
+2026-02-10 22:21:30,802 - INFO - TravelPlanner initialized
+2026-02-10 22:21:31,659 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-10 22:21:34,347 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-10 22:21:34,353 - INFO - RESPONSE GENERATED
+2026-02-10 22:24:11,749 - INFO - TravelPlanner initialized
+2026-02-10 22:24:12,455 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-10 22:24:12,571 - INFO - RESPONSE GENERATED
+2026-02-10 22:24:33,179 - INFO - TravelPlanner initialized
+2026-02-10 22:24:33,727 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-10 22:24:33,738 - INFO - RESPONSE GENERATED
+2026-02-10 22:26:23,890 - INFO - CONFIG INITIALIZED
+2026-02-10 22:26:23,895 - INFO - TAVILY TOOL ALL SET
+2026-02-10 22:26:23,899 - INFO - SERPER TOOL ALL SET
+2026-02-10 22:26:24,335 - INFO - AGENT CREATED
+2026-02-10 22:26:43,944 - INFO - TravelPlanner initialized
+2026-02-10 22:26:44,501 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-10 22:26:46,135 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-10 22:26:46,135 - INFO - RESPONSE GENERATED
+2026-02-10 23:20:07,271 - INFO - TravelPlanner initialized
+2026-02-10 23:20:08,219 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-10 23:20:11,933 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-10 23:20:11,953 - INFO - RESPONSE GENERATED
